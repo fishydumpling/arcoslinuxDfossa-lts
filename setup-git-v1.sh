@@ -11,7 +11,7 @@ set -e
 # change into your name and email.
 
 git init
-git config --global user.name "fishydumpling"
+git config --global user.name "fossa"
 git config --global user.email "niko.lipp@gmail.com"
 sudo git config --system core.editor vim
 git config --global credential.helper cache
